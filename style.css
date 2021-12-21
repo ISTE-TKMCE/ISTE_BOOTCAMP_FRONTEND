@@ -253,3 +253,9 @@ footer{
   border-radius: 5px;
   background-color: rgba(69, 160, 73,0.5);
 }
+.colored{
+  border-radius: 0;
+}
+.coloor{
+  background-color: rgba(69, 160, 73,0.5)
+}
